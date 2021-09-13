@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Description](#Description)
 * [Technology](#Technology)
-* [Screenshots](#Screenshots)
+* [Screenshot](#Screenshot)
 * [Live Site](#Live_Site)
 * [License](#License)
 * [Contact](#Contact)
@@ -21,7 +21,8 @@ The user will be able to add expenses and deposits to their budget with or witho
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## Screenshots
+## Screenshot
+![Screenshot](assets/Screenshot.jpg)
 ## Live Site
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
